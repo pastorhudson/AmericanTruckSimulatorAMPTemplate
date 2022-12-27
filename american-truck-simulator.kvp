@@ -1,4 +1,4 @@
-App.AdminMethod=STDIO
+App.AdminMethod=PinballWizard
 App.ApplicationPort1=27015
 App.ApplicationPort2=27016
 App.ApplicationPort3=101
@@ -9,7 +9,7 @@ App.CommandLineParameterDelimiter=
 App.CommandLineParameterFormat=-{0} "{1}"
 App.DisplayName=American Truck Simulator
 App.EnvironmentVariables={"LD_LIBRARY_PATH": "./linux64:%LD_LIBRARY_PATH%", "SteamAppId": "2239530"}
-App.ExecutableLinux=2239530/amtrucks_server
+App.ExecutableLinux=2239530/bin/linux_x64/amtrucks_server
 App.ExecutableWin=2239530\amtrucks_server.exe
 App.ExitMethod=SIGINT
 App.ExitString=stop
